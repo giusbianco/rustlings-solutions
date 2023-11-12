@@ -6,4 +6,5 @@
  Comments are still present within the code to easily locate implemented or corrected code.
  
  The solutions concern rustlings version 5.6.1.
+ 
  Have a good job, rastceans! 
