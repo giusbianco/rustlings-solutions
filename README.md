@@ -7,4 +7,4 @@
  
  The solutions concern rustlings version 5.6.1.
  
- Have a good job, rastceans! 
+ Have a good job, rustaceans! 
