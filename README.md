@@ -1,10 +1,6 @@
 # rustlings-solutions
- This repo contains my solutions regarding the problems proposed by rustlings, divided by category. 
- 
- The repo does not allow replication of rustlings (as in the original version) but represents only the collection of solutions. So is possiblo to access to each directory to see the code implemented to solve the exercises proposed.
- 
- Comments are still present within the code to easily locate implemented or corrected code.
- 
- The solutions concern rustlings version 5.6.1.
- 
- Have a good job, rustaceans! 
+This repository contains my solutions to the challenges posed by Rustlings, organized by category.
+It is worth noting that the repository does not facilitate the replication of Rustlings, as it merely represents a collection of solutions. However, each directory is accessible to view the code implemented to resolve the proposed exercises. 
+Comments are present throughout the codebase to aid in locating implemented or corrected code with ease. These solutions are centered on Rustlings version 5.6.1.
+
+I trust that this resource will serve as a valuable reference for Rustaceans seeking to advance their skills.
